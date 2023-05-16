@@ -1,7 +1,7 @@
 # Project Brief: Instacart Grocery Basket Analysis
 ---
 
-![instacart logo](
+![instacart logo](https://github.com/DanielNuOrt/Instacart-online-store/blob/main/instacart-logo.jpg)
 
 ---
 ## Introduction

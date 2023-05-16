@@ -13,10 +13,12 @@ through an app.
 
 ## Objective
 ---
+
 Instacart already has very good sales, but they want to uncover more
 information about their sales patterns. Your task is to perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better
 segmentation based on the provided criteria.
+
 ---
 ## Context
 ---
@@ -29,6 +31,8 @@ targets the right customer profiles with the appropriate products.
 ---
 
 ## Key Questions:
+---
+
    * The sales team needs to know what the busiest days of the week and hours of the day
    are (i.e., the days and times with the most orders) in order to schedule ads at times
    when there are fewer orders.
@@ -49,6 +53,8 @@ targets the right customer profiles with the appropriate products.
 ---
 
 ## Data
+---
+
 The dataset comprises of information on the following parameters:
 - orders
 - products

@@ -6,8 +6,7 @@
 ---
 ## Introduction
 ---
-Instacart, an online grocery store that operates
-through an app.
+### Instacart, an online grocery store that operates through an app.
 
 ---
 

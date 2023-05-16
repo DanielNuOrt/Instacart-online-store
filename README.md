@@ -1,11 +1,14 @@
 # Project Brief: Instacart Grocery Basket Analysis
 ---
+
 ![instacart logo](
+
 ---
 ## Introduction
 ---
 Instacart, an online grocery store that operates
 through an app.
+
 ---
 
 ## Objective

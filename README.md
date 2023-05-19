@@ -59,6 +59,7 @@ targets the right customer profiles with the appropriate products.
 The dataset comprises of information on the following parameters:
 - orders
 - products
+   [Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products_prior.zip)
 - departments
     [Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 ---

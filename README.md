@@ -37,6 +37,10 @@ The repository includes a collection of working notebooks, chart exports and an 
 
 The analysis uses the Instacart order, product, department and customer datasets supplied with the original learning-project brief. The source datasets are not stored in this repository, so they must be obtained separately before rerunning the notebooks. Some historical course download links may no longer be available.
 
+## Presentation
+
+[Instacart analysis presentation (PDF)](https://github.com/DanielNuOrt/DanielNuOrt/blob/main/Instacard%20Presentation.pdf)
+
 ## Project context
 
 This is an earlier learning and portfolio project, not a commissioned engagement for Instacart. It demonstrates exploratory analysis, data preparation, aggregation and visual communication. More recent engineering work is represented separately in my portfolio.

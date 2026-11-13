@@ -1,66 +1,46 @@
-# Project Brief: Instacart Grocery Basket Analysis
----
+# Instacart Basket Analysis
 
-   ![instacart logo](https://github.com/DanielNuOrt/Instacart-online-store/blob/main/instacart-logo.jpg)
+An exploratory data analysis project examining grocery ordering patterns and customer behaviour using Python and Jupyter notebooks.
 
----
-## Introduction
----
-### Instacart, an online grocery store that operates through an app.
+The project brief frames the analysis around how an online grocery business could better understand purchasing patterns and segment customers for more relevant marketing.
 
----
+## Questions explored
 
-## Objective
----
+- Which days of the week and hours of the day have the most orders?
+- How do ordering patterns and spending vary by time?
+- Which departments and product groups are ordered most frequently?
+- How do ordering habits differ across customer segments?
+- How are age, family status, region and customer loyalty related to ordering behaviour?
 
-Instacart already has very good sales, but they want to uncover more
-information about their sales patterns. Your task is to perform an initial data and exploratory
-analysis of some of their data in order to derive insights and suggest strategies for better
-segmentation based on the provided criteria.
+## Analysis workflow
 
----
-## Context
----
+The repository preserves the notebook-based analysis process, including:
 
-The Instacart stakeholders are most interested in the variety of customers in their database
-along with their purchasing behaviors. They assume they can't target everyone using the same
-methods, and they’re considering a targeted marketing strategy. They want to target different
-customers with applicable marketing campaigns to see whether they have an effect on the sale
-of their products. Your analysis will inform what this strategy might look like to ensure Instacart
-targets the right customer profiles with the appropriate products.
+- Importing data and preparing the working environment.
+- Initial exploration and descriptive analysis.
+- Data wrangling, subsetting and consistency checks.
+- Combining datasets and deriving additional variables.
+- Grouping and aggregating customer and order information.
+- Exploratory visualisation and reporting.
 
----
+The repository includes a collection of working notebooks, chart exports and an Excel analysis workbook. It is an archive of the project workflow rather than a packaged, fully reproducible application.
 
-## Key Questions:
----
+## Tools
 
-   * The sales team needs to know what the busiest days of the week and hours of the day
-   are (i.e., the days and times with the most orders) in order to schedule ads at times
-   when there are fewer orders.
-   * They also want to know whether there are particular times of the day when people spend
-   the most money, as this might inform the type of products they advertise at these times.
-   * Instacart has a lot of products with different price tags. Marketing and sales want to use
-   simpler price range groupings to help direct their efforts.
-   * Are there certain types of products that are more popular than others? The marketing
-   and sales teams want to know which departments have the highest frequency of product
-   orders.
-   * The marketing and sales teams are particularly interested in the different types of
-   customers in their system and how their ordering behaviors differ. For example:
-   * What’s the distribution among users in regards to their brand loyalty (i.e., how
-   often do they return to Instacart)?
-   * Are there differences in ordering habits based on a customer’s loyalty status?
-   * Are there differences in ordering habits based on a customer’s region?
-   * Is there a connection between age and family status in terms of ordering habits?
----
+- Python
+- Jupyter Notebook
+- pandas and common Python data-analysis libraries
+- Data visualisation
+- Excel for reporting
 
 ## Data
----
 
-The dataset comprises of information on the following parameters:
-- orders
-- products
-   [Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products_prior.zip)
-- departments
-    [Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
----
+The analysis uses the Instacart order, product, department and customer datasets supplied with the original learning-project brief. The source datasets are not stored in this repository, so they must be obtained separately before rerunning the notebooks. Some historical course download links may no longer be available.
 
+## Presentation
+
+[Instacart analysis presentation (PDF)](https://github.com/DanielNuOrt/DanielNuOrt/blob/main/Instacard%20Presentation.pdf)
+
+## Project context
+
+This is an earlier learning and portfolio project, not a commissioned engagement for Instacart. It demonstrates exploratory analysis, data preparation, aggregation and visual communication. More recent engineering work is represented separately in my portfolio.
